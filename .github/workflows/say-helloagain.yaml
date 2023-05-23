@@ -1,4 +1,4 @@
-name: SayHelloagain
+name: sayHelloAgain
 on: workflow_call
 
 jobs:
